@@ -4,4 +4,4 @@ console.log(name);
 const age = {
     article:"about git flow"
 }
-const name1= "aaaa"
+const name1= "Quang test git"
