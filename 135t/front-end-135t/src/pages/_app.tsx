@@ -14,7 +14,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
   }, []);
 
   return (
-    <ThemeProvider theme={muiTheme}>
+    <ThemeProvider theme={muiTheme} >
         <Component {...pageProps} />
 
     </ThemeProvider>
